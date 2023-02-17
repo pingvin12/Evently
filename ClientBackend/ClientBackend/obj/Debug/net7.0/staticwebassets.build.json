@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xeb68yKXEacZP8Fpq3DKRvP9ayCz18wSotS8IdXAsQY=",
+  "Source": "ClientBackend",
+  "BasePath": "_content/ClientBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

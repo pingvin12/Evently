@@ -90,15 +90,22 @@ namespace ClientBackend.Controllers
             return events;
         }
 
-        [HttpPost]
-        public IActionResult Edit([FromBody] Event eventData)
+        [HttpPut("{id:int}")]
+        public IActionResult Edit(int id, [FromBody] Event eventData)
         {
             try
             {
+                if (id != eventData.Id)
+                {
+                    _logger.LogError($"Error while modifying object : {eventData}, Error message : Id mismatch on event");
+                    return new BadRequestResult();
+                }
+                
                 var item = _context.Events.FirstOrDefault(x => x.Id == eventData.Id);
-                Delete(item.Id);
-                Post(eventData);
-                return Ok(eventData);
+                _context.Entry(item).CurrentValues.SetValues(eventData);
+                _context.SaveChanges();
+
+                return new OkObjectResult(item);
             }
             catch (Exception ex)
             {

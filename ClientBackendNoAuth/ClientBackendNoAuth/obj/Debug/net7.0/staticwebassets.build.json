@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "roxxHDv00Vkn7Hq3Y4QgwXquOiOakLf7+Mwlp/MaoBk=",
+  "Source": "ClientBackendNoAuth",
+  "BasePath": "_content/ClientBackendNoAuth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

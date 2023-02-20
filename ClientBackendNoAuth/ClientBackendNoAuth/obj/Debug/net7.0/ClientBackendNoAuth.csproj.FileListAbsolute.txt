@@ -1,0 +1,87 @@
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\appsettings.Development.json
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\appsettings.json
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\ClientBackendNoAuth.exe
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\ClientBackendNoAuth.deps.json
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\ClientBackendNoAuth.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\ClientBackendNoAuth.dll
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\ClientBackendNoAuth.pdb
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\Humanizer.dll
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\Microsoft.OpenApi.dll
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\Mono.TextTemplating.dll
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\Npgsql.dll
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\System.CodeDom.dll
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\ClientBackendNoAuth.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\ClientBackendNoAuth.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\ClientBackendNoAuth.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\ClientBackendNoAuth.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\ClientBackendNoAuth.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\ClientBackendNoAuth.MvcApplicationPartsAssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\ClientBackendNoAuth.MvcApplicationPartsAssemblyInfo.cache
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\staticwebassets\msbuild.ClientBackendNoAuth.Microsoft.AspNetCore.StaticWebAssets.props
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\staticwebassets\msbuild.build.ClientBackendNoAuth.props
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ClientBackendNoAuth.props
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ClientBackendNoAuth.props
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\staticwebassets.pack.json
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\staticwebassets.build.json
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\staticwebassets.development.json
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\scopedcss\bundle\ClientBackendNoAuth.styles.css
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\ClientBackendNoAuth.csproj.CopyComplete
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\ClientBackendNoAuth.dll
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\refint\ClientBackendNoAuth.dll
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\ClientBackendNoAuth.pdb
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\ClientBackendNoAuth.genruntimeconfig.cache
+\\wsl.localhost\Ubuntu\home\fenyes\Projects\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\ref\ClientBackendNoAuth.dll
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\appsettings.json
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\ClientBackendNoAuth.exe
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\ClientBackendNoAuth.deps.json
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\ClientBackendNoAuth.runtimeconfig.json
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\ClientBackendNoAuth.dll
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\ClientBackendNoAuth.pdb
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\Humanizer.dll
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\Npgsql.dll
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\ClientBackendNoAuth.csproj.AssemblyReference.cache
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\ClientBackendNoAuth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\ClientBackendNoAuth.AssemblyInfoInputs.cache
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\ClientBackendNoAuth.AssemblyInfo.cs
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\ClientBackendNoAuth.csproj.CoreCompileInputs.cache
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\ClientBackendNoAuth.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\ClientBackendNoAuth.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\staticwebassets\msbuild.ClientBackendNoAuth.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\staticwebassets\msbuild.build.ClientBackendNoAuth.props
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ClientBackendNoAuth.props
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ClientBackendNoAuth.props
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\scopedcss\bundle\ClientBackendNoAuth.styles.css
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\ClientBackendNoAuth.csproj.CopyComplete
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\ClientBackendNoAuth.dll
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\refint\ClientBackendNoAuth.dll
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\ClientBackendNoAuth.pdb
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\ClientBackendNoAuth.genruntimeconfig.cache
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\ref\ClientBackendNoAuth.dll
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll

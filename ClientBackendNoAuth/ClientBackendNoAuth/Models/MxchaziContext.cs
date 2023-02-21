@@ -28,11 +28,11 @@ public partial class MxchaziContext : DbContext
         {
             entity.HasKey(e => e.Id).HasName("events_pk");
 
-            entity.ToTable("events", "events");
+            entity.ToTable("events", "core");
 
             entity.HasIndex(e => e.Id, "events_id_idx").IsUnique();
             entity.Property(e => e.Id)
-                .ValueGeneratedNever()
+                .ValueGeneratedOnAdd()
                 .HasColumnName("id");
             entity.Property(e => e.Capacity).HasColumnName("capacity");
             entity.Property(e => e.Country)

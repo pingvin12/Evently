@@ -11,11 +11,11 @@ namespace ClientBackendNoAuth.Migrations
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.EnsureSchema(
-                name: "events");
+                name: "core");
 
             migrationBuilder.CreateTable(
                 name: "events",
-                schema: "events",
+                schema: "core",
                 columns: table => new
                 {
                     id = table.Column<int>(type: "integer", nullable: false),
@@ -31,7 +31,7 @@ namespace ClientBackendNoAuth.Migrations
 
             migrationBuilder.CreateIndex(
                 name: "events_id_idx",
-                schema: "events",
+                schema: "core",
                 table: "events",
                 column: "id",
                 unique: true);
@@ -42,7 +42,7 @@ namespace ClientBackendNoAuth.Migrations
         {
             migrationBuilder.DropTable(
                 name: "events",
-                schema: "events");
+                schema: "core");
         }
     }
 }

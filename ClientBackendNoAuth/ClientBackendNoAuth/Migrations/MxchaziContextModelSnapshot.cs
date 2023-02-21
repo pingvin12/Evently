@@ -49,7 +49,7 @@ namespace ClientBackendNoAuth.Migrations
                     b.HasIndex(new[] { "Id" }, "events_id_idx")
                         .IsUnique();
 
-                    b.ToTable("events", "events");
+                    b.ToTable("events", "core");
                 });
 #pragma warning restore 612, 618
         }

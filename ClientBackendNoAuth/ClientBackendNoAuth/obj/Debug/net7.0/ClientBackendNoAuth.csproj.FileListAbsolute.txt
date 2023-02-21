@@ -53,6 +53,7 @@ C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNo
 C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
 C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\Microsoft.OpenApi.dll
@@ -84,4 +85,3 @@ C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNo
 C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\ClientBackendNoAuth.pdb
 C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\ClientBackendNoAuth.genruntimeconfig.cache
 C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\obj\Debug\net7.0\ref\ClientBackendNoAuth.dll
-C:\Users\fenye\OneDrive\Asztali gép\Evently\ClientBackendNoAuth\ClientBackendNoAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll

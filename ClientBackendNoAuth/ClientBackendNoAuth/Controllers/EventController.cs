@@ -56,7 +56,7 @@ namespace ClientBackend.Controllers
         }
 
 
-        [HttpDelete("DeleteEvent")]
+        [HttpDelete("{id:int}")]
         public IActionResult Delete(int id)
         {
             var eventData = _context.Events.FirstOrDefault(
@@ -90,8 +90,9 @@ namespace ClientBackend.Controllers
             return events;
         }
 
-        [HttpPut("{id:int}")]
-        public IActionResult Edit(int id, [FromBody] Event eventData)
+
+        [HttpPut("{id}")]
+        public IActionResult Edit(int id, Event eventData)
         {
             try
             {
@@ -115,7 +116,7 @@ namespace ClientBackend.Controllers
         }
 
         [HttpPost]
-        public IActionResult Post([FromBody] Event eventData)
+        public IActionResult Post(Event eventData)
         {
             //
             // Validation only required for location (max 100 characters) and 

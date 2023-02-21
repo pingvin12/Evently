@@ -5,7 +5,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddDbContext<MxchaziContext>(options =>
-        options.UseNpgsql("Server=localhost;Port=5432;Database=mxchazi;User Id=postgres;Password=123;"));
+        options.UseNpgsql("Server=localhost;search path=core;Port=5432;Database=mxchazi;User Id=postgres;Password=123;"));
 
 
 builder.Services.AddControllers();
@@ -22,8 +22,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
-
+//Does not work with nextjs, highly requested feature. see https://stackoverflow.com/questions/70440486/locally-developing-nextjs-and-fetch-getting-self-signed-cert-error?rq=1
+//app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();

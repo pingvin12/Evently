@@ -10,6 +10,8 @@ The backend is organized using a layered architecture, where each layer has a sp
 
 The frontend of Evently, a web application for managing events, uses NextAuth.js for authorization. NextAuth.js is a flexible authentication library for Next.js applications that supports various authentication providers, such as Google, Facebook, GitHub, and more.
 
+![image](https://user-images.githubusercontent.com/1901727/220222357-41db7672-1522-48d0-a5cb-db2e20cef862.png)
+
 
 
 ## ORM Structure

@@ -1,0 +1,23 @@
+{
+/*
+The following identity settings need to be configured
+before the project can be successfully executed.
+For more info see https://aka.ms/dotnet-template-ms-identity-platform
+*/
+  "AzureAd": {
+    "Instance": "https://login.microsoftonline.com/",
+    "Domain": "qualified.domain.name",
+    "TenantId": "5cec5e4e-3791-4557-8a1f-6b37d7384f59",
+    "ClientId": "020857d6-cb4a-4655-91c4-505ea6d1de2c",
+
+    "Scopes": "access_as_user",
+    "CallbackPath": "/signin-oidc"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*"
+}

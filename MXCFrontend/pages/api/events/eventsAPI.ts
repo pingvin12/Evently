@@ -12,7 +12,7 @@ const axiosInstance = axios.create({
 
 export const getEvents = async () => {
   const res = await axiosInstance.get(`${API_URL}Event/AllEvents`);
-  return res.data;
+  return res.data
 };
 
 export const getEvent = async (id: number) => {

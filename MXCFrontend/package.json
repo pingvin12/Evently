@@ -18,7 +18,8 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-sortable-table": "^1.4.0",
-    "react-switch": "^7.0.0"
+    "react-switch": "^7.0.0",
+    "typeorm": "^0.3.7"
   },
   "devDependencies": {
     "@types/node": "^12.12.21",

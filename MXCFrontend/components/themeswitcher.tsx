@@ -1,20 +1,21 @@
-import React, { Component } from "react";
+import React, { Component, useState } from "react";
 import Switch from "react-switch";
 
-class ThemeToggleSwitch extends Component {
-   constructor(props: any) {
+class ThemeToggleSwitch extends Component<{}, {dark: boolean}> {
+    
+    constructor(props: any) {
     super(props);
-    this.state = { dark : false};
     this.handleChange = this.handleChange.bind(this);
+    this.state = {dark: false}
    }
 
-   handleChange(checked: boolean) {
+   handleChange() {
     if (document.documentElement.classList.contains('dark')){
-        this.setState({dark: checked})
+        this.setState({dark: false})
         document.documentElement.classList.remove('dark')
     }
     else {
-        this.setState({dark: checked})
+        this.setState({dark: true})
         document.documentElement.classList.add('dark')
     }
    }

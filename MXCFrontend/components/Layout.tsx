@@ -24,7 +24,6 @@ export default function Layout({children} : {children: ReactNode}) {
         <Link className='menuitem' href="/">Events</Link>
         <Link className='menuitem' href="/settings">Settings</Link>
         
-        <Link className='authitem' href="/register">Register</Link>
         { !session && (
         <Link className='authitem' onClick={(e) => { e.preventDefault(); signIn() } } href={''}>Login</Link>
         )
@@ -33,9 +32,9 @@ export default function Layout({children} : {children: ReactNode}) {
           session?.user && (<>
             <div className='profile-holder'>
               <Image src={session?.user.image} width={500} height={500} alt='avatar' className='profpic' onClick={(e) => router.push('/profile')}></Image>
-              <a><strong>{session.user.name}</strong></a>
+              <Link className='authitem' onClick={(e) => { e.preventDefault(); signOut()}} href="">Sign out</Link>
+            
             </div>
-            <Link className='authitem' onClick={(e) => { e.preventDefault(); signOut()}} href="">Sign out</Link>
             </>
           )
         }

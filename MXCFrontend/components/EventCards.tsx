@@ -6,22 +6,34 @@ import { addEvent, deleteEvent, getEvents, getId } from '../pages/api/events/eve
 import { ReactDOM } from 'react';
 import { useRouter } from 'next/router';
 import Link from 'next/link';
+import LoadingModal from './LoadingModal';
 export default function EventCards({events}) {
     const {data: session, status } = useSession()
     const router = useRouter()
-    const [event, setEvent] = useState({name: "", location: "", country: "", capacity: [0,0], id: -1})
+    const [isLoadingVisible, setLoadingVisible] = useState(false)
+    
+    setTimeout(() => {
+        setLoadingVisible(false);
+    }, 5000)
     
     return (
-        <div className="p-10 grid grid-cols-1 sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-3 gap-5">
-  
+        <>
+        {
+            isLoadingVisible && (
+                <LoadingModal/>
+            )
+        }
+        
+        <div className="p-10 grid grid-cols-1 sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-3 gap-5 dark:bg-slate-900">
+           
        {
         session && (
         <a className="card">
             <h5>Create new Event</h5><br/>
             <p>Name: </p><input id="name" type="text" />
-            <p>Location:</p><input id="location" type="text" />
+            <p>Location:</p><input id="location" maxLength={100} type="text" />
             <p>Country:</p><input id="country" type="text"  />
-            <p>Capacity:</p><input id="capacity" type="text" />
+            <p>Capacity:</p><input id="capacity" type="number" />
                  
             <button className='submit' type='submit' onClick={(e) => {
                 const id = Math.max(...events.map(o => o.id), 1) + 1;
@@ -33,6 +45,7 @@ export default function EventCards({events}) {
                     capacity: (document.getElementById("capacity")).value,
                     id: id
                 }
+                console.log(event)
                 addEvent(event)
             }}>Create new</button>    
         </a>)
@@ -69,6 +82,7 @@ export default function EventCards({events}) {
       
        
         </div>
+        </>
     )
 }
   

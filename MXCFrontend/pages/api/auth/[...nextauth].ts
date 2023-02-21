@@ -1,6 +1,7 @@
 import NextAuth from 'next-auth/next'
 import GitHubProvider from 'next-auth/providers/github';
 import AzureAd from 'next-auth/providers/azure-ad'
+import { TypeORMLegacyAdapter } from "@next-auth/typeorm-legacy-adapter"
 
 export default NextAuth({
     providers: [
